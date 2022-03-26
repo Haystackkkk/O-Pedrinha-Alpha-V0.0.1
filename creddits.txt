@@ -1,0 +1,24 @@
+      Producer
+        Haystack.mp4
+
+      Art Director
+        Alexander Oli
+
+      Character Art
+        Luiz Martins
+      
+      Lead BackGround Artist
+        Bobber Willon
+
+      Music Producer     
+        David Castil
+        Afonso Render
+
+      Game Tester 
+        Luiz Martins
+        Bobber 
+
+
+
+    if More people can join, 
+  then go to folder that named 'help wanted'.
